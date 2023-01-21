@@ -27,7 +27,7 @@ This application is a tool for creating and managing email accounts for new hire
 - Create a new Pull Request
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the LICENSE file for details.
 
 This application serves as a streamlined and efficient way to create and manage email accounts for new employees
 
