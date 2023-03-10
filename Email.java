@@ -2,6 +2,7 @@ package emailapp;
 import java.util.Scanner;
 
 public class Email {
+   
     
     private String firstname;                  //Define all the necessities
     private String lastname;
